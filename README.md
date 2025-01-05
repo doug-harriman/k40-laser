@@ -12,6 +12,12 @@ Programs for controlling K40 Lasers.
 * [K40Whisperer](https://www.scorchworks.com/K40whisperer/k40whisperer.html) - Windows application.
 * [Visicut](https://visicut.org/)
 
+## Materials
+
+| Material | Thickness | Operation | Speeds [mm/s] | Power [0-1000] | Current [mA] |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| 405 nm UV Shield Polycarbonate | 3 mm | Cut | 2 | 1000 | 5 |
+
 ## Other Tools
 
 * [Deepnest](https://deepnest.io/) - Tool for optimal nesting of parts to reduce material usage and cut times.
