@@ -1,11 +1,16 @@
 # K40 Laser Knowledge Base
 
+## Knowledge Bases
+
+* [Makers Forum](https://forum.makerforums.info/t/new-to-k40-start-here/79751)
+
 ## Control Software
 
 Programs for controlling K40 Lasers.
 
 * [MeerK40t](https://github.com/meerk40t/meerk40t/wiki) - Python tool with [wxPython](https://www.wxpython.org/) GUI.
 * [K40Whisperer](https://www.scorchworks.com/K40whisperer/k40whisperer.html) - Windows application.
+* [Visicut[(https://visicut.org/)
 
 ## Other Tools
 
