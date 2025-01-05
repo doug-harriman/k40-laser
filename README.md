@@ -16,7 +16,8 @@ Programs for controlling K40 Lasers.
 
 | Material | Thickness | Operation | Speeds [mm/s] | Power [0-1000] | Current [mA] |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| 405 nm UV Shield Polycarbonate | 3 mm | Cut | 2 | 1000 | 5 |
+| 405 nm UV Shield Polycarbonate | 3 mm | Cut | 2 | 1000 |  5  |
+| Clear Acrylic                  | 6 mm | Cut | 1 | 1000 | 7.5 | 
 
 ## Other Tools
 
