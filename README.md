@@ -14,14 +14,16 @@ Programs for controlling K40 Lasers.
 
 ## Materials
 
-| Material | Thickness | Operation | Speeds [mm/s] | Power [0-1000] | Current [mA] |
-| :--- | :---: | :---: | :---: | :---: | :---: |
+| Material | Thickness | Operation | Speeds [mm/s] | Power [0-1000] | Current [mA] | Passes |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 405 nm UV Shield Polycarbonate | 3 mm   | Cut    |  2 | 1000 |   5  |
 | Clear Acrylic                  | 6 mm   | Cut    |  1 | 1000 |  7.5 | 
 | Transparency                   | 0.1mm? | Cut    | 15 | 1000 |  5   | 
 | Soldermask                     | 0.1mm? | Ablate | 20 | 1000 | 10   |
+| Packing foam sheet             | 3.175mm| Cut    | 20 |  750 | 10   | 2 | 
 
 ## Other Tools
 
 * [Deepnest](https://deepnest.io/) - Tool for optimal nesting of parts to reduce material usage and cut times.
 * [Boxes.py](https://boxes.hackerspace-bamberg.de/) - Script for creating dovetail joint and flex boxes from laser cut sheet material. 
+ 
