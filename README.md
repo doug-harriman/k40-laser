@@ -25,6 +25,7 @@ Programs for controlling K40 Lasers.
 | Glass Microscope Slide         | 1 mm   | Cut    |  20 |  750 | 10   | 1 | |
 | Glass Microscope Slide         | 1 mm   | Etch   | 100 |  750 | 10   | 1 | |
 | Black Walnut                   |  -     | Etch   | 150 |  700 | 10   | 1 | |
+| Black Walnut                   | 0.75 mm| Cut    |  25 |  750 | 10   | 1 | 0.75 mm per pass. No flames. |
 | PLA                            |  -     | Etch   | 100 |  750 | 10   | 1 | |
 
 ## Other Tools
