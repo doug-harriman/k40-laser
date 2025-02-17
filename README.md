@@ -18,8 +18,8 @@ Programs for controlling K40 Lasers.
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |:--- |
 | 405 nm UV Shield Polycarbonate | 3 mm   | Cut    |   2 | 1000 |   5  | 1 | | |
 | Clear Acrylic                  | 10 mm  | Cut    |   2 | 1000 | 10   | 6 | 0.35 | 2.5 mm per pass |
-| [Clear Acrylic](https://www.amazon.com/dp/B0BYSBDTWL?th=1) |  3.0 mm | Cut   | 5 |  1000 | 1 | ? | ? | | 
-| Clear Acrylic                  |  -     | Etch   | 150 |  700 | 10   | 1 | | | 
+| [Clear Acrylic](https://www.amazon.com/dp/B0BYSBDTWL?th=1) |  3.0 mm | Cut   | 5 |  1000 | 10 | 1 | 0.075 | | 
+| Clear Acrylic                  |  -     | Etch   | 150 |  500 | 10   | 1 | | Air assist| 
 | [Aqua Acrylic](https://www.amazon.com/dp/B0D7CBBSMN?th=1) |  3.125 mm | Cut   | 5 |  1000 | 1   | ? | ? | | 
 | Transparency                   | 0.1mm? | Cut    |  15 | 1000 |  5   | 1 | | |
 | Photo Paper                    | 0.22mm | Cut    |  40 |  700 | 10   | 1 | 0.05 | |
