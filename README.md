@@ -22,6 +22,7 @@ Programs for controlling K40 Lasers.
 | Clear Acrylic                  |  -     | Etch   | 150 |  700 | 10   | 1 | | | 
 | [Aqua Acrylic](https://www.amazon.com/dp/B0D7CBBSMN?th=1) |  3.125 mm | Cut   | ? |  1000 | 10   | ? | ? | | 
 | Transparency                   | 0.1mm? | Cut    |  15 | 1000 |  5   | 1 | | |
+| Photo Paper                    | 0.22mm | Cut    |  40 |  700 | 10   | 1 | 0.05 | |
 | Soldermask                     | 0.1mm? | Ablate |  20 | 1000 | 10   | 1 | | |
 | Packing foam sheet             | 3.175mm| Cut    |  20 |  750 | 10   | 2 | | |
 | Glass Microscope Slide         | 1 mm   | Cut    |  20 |  750 | 10   | 1 | | |
