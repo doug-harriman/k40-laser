@@ -30,7 +30,7 @@ Programs for controlling K40 Lasers.
 | Black Walnut                   |  -     | Etch   | 150 |  700 | 10   | 1 | | |
 | Black Walnut                   | 4 mm   | Cut    |  25 |  750 | 10   | 6 | 0.12 | 0.75 mm per pass. No flames. |
 | Baltic Birch (#'s need update) |  -     | Etch   | 150 |  500 | 10   | 1 | | |
-| Baltic Birch (#'s need update) | 3.125mm| Cut    |  25 |  750 | 10   | 5 | 0.05 | No flames. |
+| Baltic Birch (#'s need update) | 3.125mm| Cut    |  25 |  750 | 10   | 6| 0.05 | No flames. |
 | PLA                            |  -     | Etch   | 100 |  750 | 10   | 1 | | |
 
 ## Other Tools
