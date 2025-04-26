@@ -34,6 +34,7 @@ Programs for controlling K40 Lasers.
 | Baltic Birch (w or w/o blue tape) |  -     | Etch   | 150 |  500 | 10   | 1 | | Air assist.|
 | Baltic Birch                   | 3.125mm| Cut    |  25 |  750 | 10   | 6| 0.05 | No flames. Air assist|
 | PLA                            |  -     | Etch   | 100 |  750 | 10   | 1 | | |
+| Spray Paint on PCB             |  -     | Etch   | 125 |  250 | 10   | 1 | | Matte dark green|
 
 ## Other Tools
 
