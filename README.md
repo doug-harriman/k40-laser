@@ -23,7 +23,7 @@ Programs for controlling K40 Lasers.
 | Clear Acrylic w/Paper Cover    |  6.0 mm | Cut   | 1.75 |  1000 | 10 | 1 | 0.075 | Air assist|
 | Clear Acrylic w/Paper Cover    |  -      | Etc   | 100  |  1000 | 10   | 1 | | Air assist| 
 | [Aqua Acrylic](https://www.amazon.com/dp/B0D7CBBSMN?th=1) |  3.125 mm | Cut   | 10 |  1000 | 10 | 2 | 0.1 | Air assist|
-| Transparency                   | 0.1mm? | Cut    |  15 |  500 | 10   | 1 | | |
+| Transparency                   | 0.1mm? | Cut    |  75 |  250 | 10   | 1 | | Air Assist<br>Raster @ 600 DPI |
 | Photo Paper                    | 0.22mm | Cut    |  40 |  700 | 10   | 1 | 0.05 | |
 | Soldermask                     | 0.1mm? | Ablate<br>(Raster) | 200 | 500 | 10   | 1 | | Silkscreen applied <br><img src="images/pcb-soldermask-ablate.png" width="100" height="200">|
 | Packing foam sheet             | 3.175mm| Cut    |  20 |  750 | 10   | 2 | | |
